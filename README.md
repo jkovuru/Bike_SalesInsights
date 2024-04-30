@@ -6,7 +6,7 @@ Adventure works has experienced significant growth in recent years and has made 
 
 Link to the course from where I practiced this project  [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
 
-[Live Report Link](https://app.powerbi.com/groups/me/reports/6f637ce4-efd1-40e6-a4d1-6f4ddec26c68/ReportSection0e765c0061580b067c73?experience=power-bi)
+[Live Report Link](https://app.powerbi.com/groups/me/reports/375c941c-fb7f-407d-8ffd-545f187d171c/ReportSection?experience=power-bi)
 ## Technology used
 
 - PowerBi Desktop
