@@ -38,20 +38,14 @@ Link to the course from where I practiced this project  [here](https://codebasic
 - And many more 
 
 ## Business terms
-- Net sales
-- Net profit
-- COGC - cost of goods sold
-- YTD - Year to Date
-- YTG - Year to Go
-- Direct
-- Retailer
-- Distributors
-- Consumer
-- Gross price
-- Pre-invoice deductions
-- Post-Invoice deductions
-- Net Invoice sale
-- Gross Margin
+- Total Revenue
+- Total orders
+- Return rate
+- Target revenue
+- Profit
+- Customers
+- Products
+- Target revenue
 
 
 ### Questions to ask before starting with dashboard
@@ -88,7 +82,7 @@ Fact table : It will have the data about the transactions
 - Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
 - Poor data modeling affects the over all performance of the report.
 - Following Good practices of data modeling is must. 
-- In this project, we have followed Snowfall data modeling method.
+- In this project, we have followed Snowflake data modeling method.
 
 <img src="(https://github.com/jkovuru/Bike_SalesInsights/blob/main/Report/data%20model_star%20schema.png)" class="center">
 
