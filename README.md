@@ -4,8 +4,6 @@
 
 Adventure works has experienced significant growth in recent years and has made the strategic decision to introduce Power BI-based data analytics within their organization. The objective is to outperform competitors in the market and enable data-driven decision-making. This initiative aims to address stakeholder inquiries across various domains including finance, sales, marketing, and supply chain management.
 
-Link to the course from where I practiced this project  [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
-
 [Live Report Link](https://app.powerbi.com/groups/me/reports/375c941c-fb7f-407d-8ffd-545f187d171c/ReportSection?experience=power-bi)
 ## Technology used
 
