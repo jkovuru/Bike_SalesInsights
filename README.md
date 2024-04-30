@@ -1,4 +1,4 @@
-# Business Insights 360
+# Bike Sales Insights
 
 ## Project Overview
 
@@ -6,11 +6,10 @@ AtliQ Hardware has experienced significant growth in recent years and has made t
 
 Link to the course from where I practiced this project  [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
 
-[Live Report Link]([https://www.novypro.com/project/atliq-hardware-business-insights-360](https://app.powerbi.com/groups/me/reports/6f637ce4-efd1-40e6-a4d1-6f4ddec26c68/ReportSection0e765c0061580b067c73?experience=power-bi))
+[Live Report Link](https://app.powerbi.com/groups/me/reports/6f637ce4-efd1-40e6-a4d1-6f4ddec26c68/ReportSection0e765c0061580b067c73?experience=power-bi)
 
 ## Technology used
 
-- SQL
 - PowerBi Desktop
 - Excel
 - DAX language
@@ -92,7 +91,7 @@ Fact table : It will have the data about the transactions
 - Following Good practices of data modeling is must. 
 - In this project, we have followed Snowfall data modeling method.
 
-<img src="https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
+<img src="https://github.com/jkovuru/Power-BI---Business-Insights-360/blob/main/Report/data%20model_star%20schema.png" class="center">
 
 ### Dashboard designing
 
@@ -113,7 +112,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Overall Report
 
-![Overall Report]([https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif](https://app.powerbi.com/groups/me/reports/6f637ce4-efd1-40e6-a4d1-6f4ddec26c68/ReportSection0e765c0061580b067c73?experience=power-bi)
+![Overall Report](https://app.powerbi.com/groups/me/reports/6f637ce4-efd1-40e6-a4d1-6f4ddec26c68/ReportSection0e765c0061580b067c73?experience=power-bi)
 
 
 ## Project Outcome
